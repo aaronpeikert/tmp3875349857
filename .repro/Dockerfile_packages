@@ -1,0 +1,4 @@
+RUN install2.r --error --skipinstalled \ 
+  here \ 
+  lubridate \ 
+  tidyverse
